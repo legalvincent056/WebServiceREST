@@ -1,0 +1,16 @@
+package com.legal.ClientJavaRESTMaven;
+
+import com.sun.jersey.api.client.config.ClientConfig;
+import com.sun.jersey.api.client.config.DefaultClientConfig;
+
+public class Lanceur {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+			ClientConfig config = new DefaultClientConfig();
+			
+			
+	}
+
+}

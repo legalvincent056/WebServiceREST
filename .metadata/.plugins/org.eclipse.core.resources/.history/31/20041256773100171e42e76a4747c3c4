@@ -1,0 +1,13 @@
+package com.legal.ClientJavaRESTMaven;
+
+import org.glassfish.jersey.client.ClientConfig;
+
+public class Lanceur {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+			ClientConfig config = new DefaultClient
+	}
+
+}

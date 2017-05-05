@@ -1,0 +1,15 @@
+package service;
+
+public class TestService {
+
+		public String Test(){
+			return "TEST";
+		}
+		
+		public double conversion(double mt){
+			return 5*mt;
+		}
+		
+		
+		
+}
